@@ -1,0 +1,67 @@
+@article{05DePoDe,
+   author = {Derro, Erika L. and Pollack, Ilana B. and Dempsey, Logan P. and Greenslade, Margaret E.
+   and Lei, Yuxiu and Radenovi{\'c}, Dragana {\v{C}} and Lester, Marsha I.},
+   title = {{Fluorescence-dip infrared spectroscopy and predissociation dynamics of OH A$^{2}\Sigma^{+}$ (v= 4) radicals}},
+   journal = J. Chem. Phys.,
+   year = {2005},
+   volume = {122},
+   pages = {244313},
+   doi = {doi.org/10.1063/1.1937387}}
+
+@article{21SuZhZh, 
+   author = {Ge Sun and Weidong Zhou and Xianfeng Zheng and Yuan Qin and Yu Song and Yan Yuan and Jingsong Zhang},
+   title = {{State-to-state predissociation dynamics of hydroxyl radical via the A$^{2}\Sigma^{+}$ state}},
+   journal = Mol. Phys.,
+   volume = {119},
+   pages = {e1837974},
+   year = {2021},
+   doi = {10.1080/00268976.2020.1837974}}
+
+@article{78BrErLy,
+   author = {J Brzozowski and  P Erman and  M Lyyra},
+   title = {{Precision Estimates of the Predissociation Rates of the OH A$^{2}\Sigma^{+}$ State ($v \le 2$)}},
+   journal = Phys. Scr.,
+   year = {1978},
+   volume = {17},
+   pages = {507},
+   doi = {10.1088/0031-8949/17/5/006}}
+
+@article{91GrFa, 
+   author = {Gray, Jeffrey A. and Farrow, Roger L.},
+   title = {{Predissociation lifetimes of OH A$^{2}\Sigma^{+}$ ($v^{\prime}=3$) obtained from optical–optical double‐resonance linewidth measurements}},
+   journal = J. Chem. Phys.,
+   volume = {95},
+   pages = {7054-7060},
+   year = {1991},
+   issn = {0021-9606},
+   doi = {10.1063/1.461433}}
+
+@article{92HeCrJe, 
+   author = {Heard, Dwayne E. and Crosley, David R. and Jeffries, Jay B. and Smith, Gregory P. and Hirano, Akira},
+   title = {{Rotational level dependence of predissociation in the $v^{\prime}=3$ level of OH A$^{2}\Sigma^{+}$}},
+   journal = J. Chem. Phys.,
+   volume = {96},
+   pages = {4366-4371},
+   year = {1992},
+   issn = {0021-9606},
+   doi = {10.1063/1.462828}}
+
+@article{97SpMeMe, 
+   author = {Spaanjaars, J. J. L. and ter Meulen, J. J. and Meijer, G.},
+   title = {{Relative predissociation rates of OH (A$^{2}\Sigma^{+}$,$\nu^{\prime}=3) from combined cavity ring down—Laser-induced fluorescence measurements}},
+   journal = J. Chem. Phys.,
+   volume = {107},
+   pages = {2242-2248},
+   year = {1997},
+   doi = {10.1063/1.474621}}
+
+@article{99PaYa, 
+   author = {Parlant, G\'{e}rard and Yarkony, David R.},
+   title = {{A theoretical analysis of the state-specific decomposition of OH(A$^{2}\Sigma^{+},v^{\prime},N^{\prime},F_{1}/F_{2}) levels, including the effects of spin-orbit and Coriolis interactions}},
+   journal = J. Chem. Phys.,
+   volume = {110},
+   pages = {363-376},
+   year = {1999}
+   issn = {0021-9606},
+   doi = {10.1063/1.478133}}
+
